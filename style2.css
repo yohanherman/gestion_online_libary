@@ -1,0 +1,51 @@
+/* erreur message formulaire d'inscription */
+
+.error{
+    color:red;
+    text-align:center;
+    font-size:20px;
+}
+
+
+
+
+/* page livres empruntés */
+
+td{
+    border: 1px solid #000;
+    padding:10px;
+}
+
+.entete{
+    font-weight: bold;
+}
+
+.backgroundrow{
+    background-color: rgb(241, 235, 235);
+}
+
+
+/* dashboard */
+
+.iconsLivreEmprunte{
+    color:rgb(69, 116, 69);
+    font-size: 50px;
+}
+
+.containerEmpruntelivre{
+    border:1px solid rgb(69, 116, 69);
+    width:170px;
+    height:auto;
+}
+
+
+.containerlivreNonRendu{
+    border:1px solid rgb(228, 228, 88);
+    width:170px;
+    height:auto;
+
+}
+
+
+
+
